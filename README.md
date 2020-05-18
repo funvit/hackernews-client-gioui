@@ -15,8 +15,7 @@ Demo project, just playing with [gioui](https://gioui.org/) and hackernews API..
 
 # Screenshot
 
-![](/docs/hnclient-screen-01-86ppi.png?r=3  | width=400)
-
+<img src="/docs/hnclient-screen-01-86ppi.png?r=3" width="400"  alt="screenshot"/>
 
 # License
 
