@@ -13,6 +13,11 @@ Demo project, just playing with [gioui](https://gioui.org/) and hackernews API..
 
 
 
+# Screenshot
+
+![](/docs/hnclient-screen-01.png)
+
+
 # License
 
 MIT
